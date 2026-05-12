@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1220,35:1E3A8A,70:2563EB,100:38BDF8&text=Model%20Docs&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Documentation%20Hub%20%7C%20Developer%20Guides%20%7C%20Enterprise%20Knowledge%20Base&descAlignY=58&descSize=16" alt="Model Docs GitHub Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,35:1E3A8A,70:2563EB,100:38BDF8&text=Model%20Docs&fontColor=FFFFFF&fontSize=46&fontAlignY=36&desc=Documentation%20Hub%20%7C%20Developer%20Guides%20%7C%20Knowledge%20Base&descAlignY=58&descSize=16" alt="Model Docs GitHub Banner" />
 </p>
 
 <h1 align="center">Model Docs</h1>
 
 <p align="center">
-  <strong>Model Bilgi İşlem dokümantasyon ve teknik bilgi merkezi.</strong>
+  <strong>Model Bilgi İşlem’in merkezi dokümantasyon, geliştirici rehberi ve bilgi bankası ekosistemi.</strong>
 </p>
 
 <p align="center">
-  Model ERP, Anadil Platformu, kurumsal iş uygulamaları, entegrasyonlar, geliştirici araçları ve operasyonel süreçler için merkezi dokümantasyon alanı.
+  Model ERP, Anadil Platformu, Model Framework, Model Solutions, entegrasyonlar, kullanıcı kılavuzları, kurulum rehberleri ve teknik standartlar için düzenli dokümantasyon merkezi.
 </p>
 
 <p align="center">
@@ -19,93 +19,103 @@
   <a href="mailto:info@mbi.com.tr">
     <img src="https://img.shields.io/badge/Email-info%40mbi.com.tr-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://img.shields.io/badge/Documentation-Model%20Docs-38BDF8?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Documentation" />
+  <img src="https://img.shields.io/badge/Docs-Knowledge%20Base-38BDF8?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Docs" />
 </p>
 
 ---
 
 ## Model Docs Nedir?
 
-**Model Docs**, Model Bilgi İşlem ekosistemindeki ürünler, platformlar, iş uygulamaları, teknik araçlar ve kurumsal süreçler için oluşturulan merkezi dokümantasyon organizasyonudur.
+**Model Docs**, Model Bilgi İşlem yazılım ekosisteminde kullanılan ürünlerin, platformların, araçların ve süreçlerin dokümantasyonlarını merkezi şekilde yönetmek için oluşturulmuş organizasyondur.
 
-Bu alanın amacı yalnızca belge saklamak değildir.  
-Amaç; geliştirici, danışman, destek ekibi, proje ekibi ve son kullanıcı için anlaşılır, sürdürülebilir ve erişilebilir bir bilgi merkezi oluşturmaktır.
+Bu alan; yalnızca belge saklamak için değil, kurumsal bilginin düzenli, erişilebilir ve sürdürülebilir şekilde tutulması için kullanılır.
 
-Model Docs içinde teknik rehberler, kullanım dokümanları, kurulum adımları, entegrasyon açıklamaları, mimari notlar, eğitim içerikleri, sürüm notları ve süreç dokümantasyonları yer alır.
+Model Framework altyapıyı geliştirir.  
+Model Solutions iş uygulamalarını barındırır.  
+Model Tools üretkenlik araçlarını toplar.  
+**Model Docs ise tüm bu ekosistemin bilgisini düzenler.**
 
 ---
 
-## Neden Ayrı Bir Dokümantasyon Alanı?
+## Temel Amaç
 
-Kurumsal yazılım projelerinde bilgi dağınık kaldığında sistemin sürdürülebilirliği zayıflar.
+Kurumsal yazılım projelerinde bilgi dağınık kaldığında proje büyüdükçe yönetim zorlaşır.
 
-Kod farklı yerde, kullanım notu farklı yerde, kurulum açıklaması başka yerde, müşteri süreci ise bir kişinin hafızasında kalırsa proje büyüdükçe yönetmek zorlaşır.
+Kod bir yerde, kurulum notu başka yerde, kullanıcı açıklaması bir kişinin hafızasında, hata çözümü eski bir mesajda kalırsa sistem sürdürülebilir olmaz.
 
-**Model Docs** bu dağınıklığı önlemek için vardır.
+**Model Docs** bu problemi çözmek için vardır.
 
 Hedefimiz:
 
-- Teknik bilgiyi merkezi hale getirmek
-- Ürün ve platform dokümantasyonlarını standartlaştırmak
-- Kurulum, kullanım ve destek süreçlerini kolaylaştırmak
-- Geliştirici ekipler için net başlangıç noktaları oluşturmak
+- Dokümantasyonları merkezi hale getirmek
+- Geliştirici rehberlerini standartlaştırmak
+- Kurulum ve kullanım adımlarını netleştirmek
+- Kullanıcı kılavuzlarını düzenli tutmak
+- Destek ekibinin tekrar eden sorunlara hızlı ulaşmasını sağlamak
+- Ürün, framework, tool ve solution projeleri için ortak bilgi alanı oluşturmak
 - Kurumsal hafızayı kişilere değil, dokümantasyona bağlamak
-- Eğitim ve destek süreçlerinde tekrar eden açıklamaları azaltmak
-- Ürün geliştirme, uyarlama ve bakım süreçlerini daha izlenebilir hale getirmek
 
 Kısacası:  
-Bilgi kaybolmasın, ekip yorulmasın, proje “bunu kim biliyordu?” mezarlığına dönmesin.
+“Bunu kim biliyordu?” sorusunu azaltmak için buradayız.
 
 ---
 
-## Dokümantasyon Kapsamı
+## Ekosistem Kapsamı
 
-Model Docs organizasyonu aşağıdaki ana dokümantasyon alanlarını kapsar:
+Model Docs organizasyonu aşağıdaki dokümantasyon alanlarını kapsar:
 
 | Alan | Açıklama |
 |---|---|
-| Model ERP Docs | Model ERP modülleri, kullanım senaryoları, süreç açıklamaları |
-| Anadil Platform Docs | Anadil dili, UI bileşenleri, geliştirme standartları ve örnekler |
-| Developer Guides | Geliştiriciler için kurulum, mimari, kodlama ve katkı rehberleri |
-| Integration Docs | Dış sistem, servis, veri aktarımı ve entegrasyon açıklamaları |
-| API Docs | Servisler, endpoint yapıları, veri modelleri ve teknik referanslar |
-| Installation Guides | Kurulum, ortam hazırlığı, deployment ve yapılandırma notları |
-| User Manuals | Son kullanıcılar için ekran, işlem ve modül kullanım kılavuzları |
-| Training Materials | Eğitim dokümanları, sunumlar, örnek senaryolar ve alıştırmalar |
-| Release Notes | Sürüm değişiklikleri, yenilikler, düzeltmeler ve bilinen durumlar |
-| Process Notes | İş akışı, analiz, uyarlama ve operasyonel süreç notları |
+| Developer Guides | Geliştiriciler için kurulum, kullanım ve geliştirme rehberleri |
+| Framework Docs | Model Framework, Anadil ve UI bileşen dokümantasyonları |
+| Solution Docs | İş uygulamaları ve sektörel çözümler için açıklamalar |
+| Tool Docs | Araç, script, otomasyon ve CLI kullanım dokümanları |
+| API Docs | Servisler, endpoint yapıları ve veri modeli açıklamaları |
+| Integration Docs | Dış servis, ERP, veri aktarımı ve entegrasyon notları |
+| User Manuals | Son kullanıcılar için işlem bazlı kullanım kılavuzları |
+| Installation Guides | Ortam hazırlığı, kurulum ve yapılandırma rehberleri |
+| Release Notes | Sürüm notları, değişiklik kayıtları ve migration adımları |
+| Support Knowledge Base | Sık karşılaşılan hatalar ve çözüm notları |
 
 ---
 
 ## Planlanan Repository Yapısı
 
-Bu organizasyonda dokümantasyonlar konu ve ürün bazlı repository yapısıyla tutulur.
+Model Docs altında dokümantasyonlar konu ve ürün bazlı repository yapısıyla tutulur.
 
 | Repository | Amaç |
 |---|---|
-| `model-erp-docs` | Model ERP teknik ve kullanıcı dokümantasyonları |
-| `anadil-platform-docs` | Anadil Platformu dil, yapı ve geliştirme dokümantasyonu |
-| `anadil-ui-docs` | Anadil UI bileşenleri, ekran örnekleri ve kullanım açıklamaları |
 | `developer-guides` | Geliştirici başlangıç rehberleri ve teknik standartlar |
-| `integration-docs` | ERP, dış servis, veri aktarımı ve entegrasyon dokümanları |
-| `api-docs` | API, endpoint, veri modeli ve servis açıklamaları |
-| `installation-guides` | Kurulum, yapılandırma ve ortam hazırlığı dokümanları |
-| `user-manuals` | Son kullanıcı kılavuzları ve işlem bazlı açıklamalar |
-| `training-materials` | Eğitim içerikleri, örnek senaryolar ve çalışma dokümanları |
-| `release-notes` | Sürüm notları, değişiklik kayıtları ve güncelleme geçmişi |
-| `business-process-docs` | İş süreçleri, analiz notları ve operasyonel akışlar |
-| `support-knowledge-base` | Destek ekibi için hata çözüm notları ve sık karşılaşılan durumlar |
+| `framework-docs` | Model Framework ve Anadil dokümantasyonları |
+| `solutions-docs` | Model Solutions projeleri için teknik ve kullanıcı dokümanları |
+| `tools-docs` | Model Tools araçları için kullanım rehberleri |
+| `api-docs` | API, endpoint ve veri modeli açıklamaları |
+| `integration-docs` | Entegrasyon, dış servis ve veri aktarımı dokümanları |
+| `installation-guides` | Kurulum, deployment ve ortam hazırlığı rehberleri |
+| `user-manuals` | Son kullanıcı kılavuzları |
+| `release-notes` | Sürüm notları ve değişiklik geçmişi |
+| `support-knowledge-base` | Destek ekibi için hata çözüm ve bilgi bankası |
+| `training-materials` | Eğitim içerikleri, örnek senaryolar ve sunumlar |
+| `business-process-docs` | İş süreçleri, analiz notları ve operasyon akışları |
 
 ---
 
 ## Repository İsimlendirme Standardı
 
-Model Docs altında repository isimleri küçük harfli, tireli ve anlaşılır olmalıdır.
+Model Docs altında repository isimleri küçük harfli, tireli ve dokümanın amacını açıkça gösterecek şekilde olmalıdır.
 
-Önerilen isimlendirme yapısı:
+Önerilen yapı:
 
 ```txt
-product-name-docs
-topic-name-guides
-module-name-manual
-integration-name-docs
+developer-guides
+framework-docs
+solutions-docs
+tools-docs
+api-docs
+integration-docs
+installation-guides
+user-manuals
+release-notes
+support-knowledge-base
+training-materials
+business-process-docs
